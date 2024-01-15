@@ -204,14 +204,26 @@ Please then refer to `./eva/baseline_vectors/sentence_classification.ipynb` for 
 Please cite [[1]](https://arxiv.org/abs/2305.12818) and [[2]](https://arxiv.org/abs/2305.08475) if you found the resources in this repository useful.
 
 ### Crosslingual Transfer Learning for Low-Resource Languages Based on Multilingual Colexification Graphs
-[1] Y. Liu, H. Ye, L. Weissweiler, H. Schuetze [*Crosslingual Transfer Learning for Low-Resource Languages Based on Multilingual Colexification Graphs*](https://arxiv.org/abs/2305.12818)
+[1] Y. Liu, H. Ye, L. Weissweiler, R. Pei, H. Schuetze [*Crosslingual Transfer Learning for Low-Resource Languages Based on Multilingual Colexification Graphs*](https://arxiv.org/abs/2305.12818)
 ```
-@article{liu2023colexnet,
-  title={Transfer Learning for Low-Resource Languages Based on Multilingual Colexification Graphs},
-  author={Liu, Yihong and Ye, Haotian and Weissweiler, Leonie and Schuetze, Hinrich},
-  journal={arxiv},
-  year={2023},
-  url={https://arxiv.org/abs/2305.12818},
+@inproceedings{liu-etal-2023-crosslingual-transfer,
+    title = "Crosslingual Transfer Learning for Low-Resource Languages Based on Multilingual Colexification Graphs",
+    author = "Liu, Yihong  and
+      Ye, Haotian  and
+      Weissweiler, Leonie  and
+      Pei, Renhao  and
+      Schuetze, Hinrich",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.562",
+    doi = "10.18653/v1/2023.findings-emnlp.562",
+    pages = "8376--8401",
 }
 ```
 
